@@ -4,7 +4,7 @@ function Footer() {
             <div className='footer-copyright'>
                 <div className="container">
                 @ {new Date().getFullYear()} Copyright Text 
-                <a href="#!" className='grey-text text-lighten-4 right'>
+                <a href="https://github.com/webbomj/react-shop" className='grey-text text-lighten-4 right'>
                     Repo
                 </a>
                 </div>

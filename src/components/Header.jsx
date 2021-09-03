@@ -7,7 +7,7 @@ function Header() {
                 </a>
                 <ul id='nav-mobile' className='right hide-on-med-and-down'>
                     <li>
-                        <a href="https://webbomj.github.io/projects">Repo</a>
+                        <a href="https://webbomj.github.io/projects">All project</a>
                     </li>
                 </ul>
             </div>
