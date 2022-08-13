@@ -2,6 +2,7 @@
 Учебный проект на базе курса `Udemy, Михаил Непомнящий - React с нуля для начинающих`. Простой одностраничный магазин fortnite товаров - [Demo](https://webbomj.github.io/react-shop/).
 
 Отработка развертки приложения на базе [Create-react-app](https://create-react-app.dev/)
+Отработка базовоых возможностей, работа с хуками.
 
 Использовалось Api - fortniteapi.io
 
