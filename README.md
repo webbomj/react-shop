@@ -7,10 +7,10 @@
 Использовалось Api - fortniteapi.io
 
 ## Запуск
--`npm start` - для запуска локального сервера
--`npm run build` - для билда проекта
+-`npm start` - для запуска локального сервера<br>
+-`npm run build` - для билда проекта<br>
 
 ## Техонологии:
--Node 16
--React ^17.0.2
--[Materializecss](https://materializecss.com/)
+-Node 16<br>
+-React ^17.0.2<br>
+-[Materializecss](https://materializecss.com/)<br>
